@@ -46,9 +46,10 @@ The application integrates with a free product API to fetch product data, includ
 -   **Instructions**: Follow the steps below to set up and run the project.
 
     1. Clone the repository: `git clone https://github.com/AliiIbrahim/next-ecommerce.git`
-    2. Install dependencies: `npm install`
-    3. Start the development server: `npm run dev`
-    4. Visit the application in your browser at `http://localhost:3000`.
+    1. cd into directory: `cd next-ecommerce`
+    1. Install dependencies: `npm install`
+    1. Start the development server: `npm run dev`
+    1. Visit the application in your browser at `http://localhost:3000`.
 
 -   **Architectural Decisions**:
 
